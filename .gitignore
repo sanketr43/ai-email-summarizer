@@ -1,0 +1,10 @@
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
+
+# Node modules
+node_modules/
+
+# Any local environment files
+.env
+secret.config.js
